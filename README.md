@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://giphy.com/gifs/wv1RNuvWMjQ10bzExO">
-  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="480" alt="" />
+<a href="https://giphy.com/gifs/5NE2L7vdWZ9V39Sjq8">
+  <img src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="480" alt="" />
 </a>
 
 <br/><br/>
@@ -21,7 +21,7 @@
 
 </div>
 
-<!-- Header GIF: hosted by GIPHY, embedded via their share URL (giphy.com/gifs/wv1RNuvWMjQ10bzExO). Swap the id to change it. -->
+<!-- Header GIF: hosted by GIPHY, embedded via their share URL (giphy.com/gifs/5NE2L7vdWZ9V39Sjq8). Swap the id to change it. -->
 
 ---
 
