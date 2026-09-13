@@ -6,6 +6,12 @@
 
 <br/>
 
+<a href="https://giphy.com/gifs/wv1RNuvWMjQ10bzExO">
+  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="480" alt="" />
+</a>
+
+<br/><br/>
+
 <a href="https://yashraj20.netlify.app"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=1A1B27&labelColor=1A1B27" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/yash-raj20"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B27&labelColor=1A1B27" alt="LinkedIn"/></a>
 <a href="https://www.npmjs.com/~pixelcube"><img src="https://img.shields.io/badge/npm-F7768E?style=for-the-badge&logo=npm&logoColor=1A1B27&labelColor=1A1B27" alt="npm"/></a>
@@ -15,14 +21,7 @@
 
 </div>
 
-<!--
-  ⚔️  Want a GIF here (the article's step 2)?
-  Drop one in and uncomment:
-      <img src="YOUR_GIF_URL" width="420" alt="" />
-  Left empty on purpose — hotlinking anime art you don't own is a
-  copyright risk and third-party GIF hosts break links over time.
-  Upload your own to this repo, or use a Giphy/Tenor link you've picked.
--->
+<!-- Header GIF: hosted by GIPHY, embedded via their share URL (giphy.com/gifs/wv1RNuvWMjQ10bzExO). Swap the id to change it. -->
 
 ---
 
