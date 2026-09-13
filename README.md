@@ -92,7 +92,7 @@ Went into `AppDelegate.mm` for an orientation bug the JS layer couldn't reach, a
 
 Exit **or background** a React Native app — full New Architecture (TurboModule) support, Kotlin and Objective-C++.
 
-Built because [`react-native-exit-app`](https://www.npmjs.com/package/react-native-exit-app) had been unmaintained since 2021 and could never send an app to background.
+Built because [`react-native-exit-app`](https://www.npmjs.com/package/react-native-exit-app) exposes only `exitApp()` — there is no way to background an app without killing it.
 
 [![npm](https://img.shields.io/npm/v/rn-app-exit?style=flat-square&color=F7768E&labelColor=1A1B27&logo=npm)](https://www.npmjs.com/package/rn-app-exit)
 [![downloads](https://img.shields.io/npm/dm/rn-app-exit?style=flat-square&color=7AA2F7&labelColor=1A1B27)](https://www.npmjs.com/package/rn-app-exit)
